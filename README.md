@@ -281,9 +281,7 @@ Suggested Dashboards:
 
 # 👩‍💻 Developer
 
-**Sri Harshini K**
-**Sindhuja P**
-**Rachana N**
+**Sri Harshini Kankati**
 
 B.Tech – Computer Science Engineering (Data Science)
 
